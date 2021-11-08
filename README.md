@@ -1,2 +1,2 @@
-# crott.
+# crott
 Gak tau
