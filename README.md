@@ -1,2 +1,2 @@
-# crott.py
+# crott.
 Gak tau
